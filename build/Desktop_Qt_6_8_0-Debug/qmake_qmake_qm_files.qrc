@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="i18n">
+<file alias="vending-machine_ko_KR.qm">/root/gilgil/vending-machine/build/Desktop_Qt_6_8_0-Debug/.qm/vending-machine_ko_KR.qm</file>
+</qresource>
+</RCC>
